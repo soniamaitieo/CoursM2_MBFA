@@ -12,5 +12,5 @@ ATTENTION VEUILLEZ RESPECTER LE FORMAT DU DOSSIER ET DU MAIL SUIVANT:
 
 
 
-> :warning: **QUESTION 9 EXO 2 DEVOIR**: Suite à un problème sur la question 9, la question est modifiée, c'est la suivante: 
+> :warning: **QUESTION 9 EXO 2 DEVOIR**: Suite à un problème sur la question 9, la question est modifiée, c'est la suivante:   
 > 9. Calculer le ratio de Sharp sur dailyR_op, commentez : quel est le plus performant ?
